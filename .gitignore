@@ -2,3 +2,10 @@
 .idea
 #my seetings
 venv/
+#not migrations
+visa/migrations
+login/migrations
+contact/migrations
+
+#my detabase
+db.sqlite3
